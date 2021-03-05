@@ -66,6 +66,7 @@
     <Compile Include="Assets\Scripts\PlayerControllerInterface.cs" />
     <Compile Include="Assets\Scripts\AI_Niskakoski.cs" />
     <Compile Include="Assets\Scripts\DefaultAI.cs" />
+    <Compile Include="Assets\Scripts\AI_NiskakoskiScrapped.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

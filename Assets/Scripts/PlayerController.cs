@@ -32,7 +32,7 @@ public class PlayerController : MonoBehaviour
     {
         if (GetForwardTileStatus() != 0) 
         {
-            Debug.Log("EI VOI LIIKKUA KOSKA RUUTU TÄYNNÄ");
+            // Debug.Log("EI VOI LIIKKUA KOSKA RUUTU TÄYNNÄ");
         }
         else
         {
@@ -84,7 +84,7 @@ public class PlayerController : MonoBehaviour
     // Älä tee mitään
     public void Pass()
     {
-        Debug.Log("Skipattiin vuoro");
+        // Debug.Log("Skipattiin vuoro");
     }
 
     // Antaa maailmasijainnista tiedon onko pelaajan edessä olevassa ruudussa tyhjä, seinä vai pelaaja
